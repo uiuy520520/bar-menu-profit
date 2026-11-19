@@ -1,0 +1,310 @@
+{
+  "currency": "TWD",
+  "basis": "虛構展示：共同現金成本基準；非稅務損益；冰與裝飾確認不計入此示範",
+  "period": "展示期間，非實店資料",
+  "ingredients": [
+    {
+      "id": "gin",
+      "pack_cost": 700,
+      "pack_qty": 700,
+      "unit": "ml",
+      "yield_rate": 1
+    },
+    {
+      "id": "juice",
+      "pack_cost": 120,
+      "pack_qty": 1000,
+      "unit": "ml",
+      "yield_rate": 0.8
+    },
+    {
+      "id": "syrup",
+      "pack_cost": 100,
+      "pack_qty": 1000,
+      "unit": "ml",
+      "yield_rate": 1
+    }
+  ],
+  "drinks": [
+    {
+      "id": "drink-01",
+      "name": "琴酒酸酒",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-02",
+      "name": "琴通寧示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-03",
+      "name": "琴費士示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-04",
+      "name": "柑橘琴酒示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-05",
+      "name": "蜂蜜琴酒示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-06",
+      "name": "莓果琴酒示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-07",
+      "name": "花香琴酒示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-08",
+      "name": "草本琴酒示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-09",
+      "name": "茶香琴酒示範",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0,
+      "fixed_fee": 0,
+      "quantity": 10
+    },
+    {
+      "id": "drink-10",
+      "name": "外送琴酒酸酒",
+      "recipe": [
+        {
+          "ingredient_id": "gin",
+          "qty": 45,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "juice",
+          "qty": 20,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "syrup",
+          "qty": 15,
+          "unit": "ml"
+        }
+      ],
+      "production_loss": 0,
+      "packaging_cost": 5,
+      "price": 300,
+      "discount_rate": 0,
+      "fee_rate": 0.3,
+      "fixed_fee": 0,
+      "quantity": 10
+    }
+  ]
+}

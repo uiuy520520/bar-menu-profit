@@ -1,0 +1,13 @@
+interface:
+  display_name: 酒吧飲品成本與獲利診斷
+  short_description: 核算飲品配方、耗損與通路費用，找出單品貢獻並列出缺少資料
+  default_prompt: 使用 $bar-menu-profit 分析我的飲品成本與通路貢獻，先檢查資料完整性。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
